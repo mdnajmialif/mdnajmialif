@@ -10,9 +10,9 @@
 
 ## About Me
 
-I'm a Statistics undergraduate with specialized training in Business Management. I specialize in quantitative modeling, financial econometrics, and data analytics to drive strategic decision-making.
+I'm a Statistics undergraduate with specialized training in Business Management. I specialize in quantitative modeling, financial econometrics and data analytics to drive strategic decision-making.
 
-💼 Currently seeking a Data Analytics, Risk, or Business Intelligence internship from March to September 2027.
+💼 Currently seeking a Data Analytics, Risk or Business Intelligence internship from March to September 2027.
 
 ---
 
